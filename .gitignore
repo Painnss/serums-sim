@@ -1,0 +1,5 @@
+# Material intermedio y de terceros (solucionarios descargados para comparar): no se publica
+texto/
+# Configuración local de Claude Code
+.claude/
+__pycache__/

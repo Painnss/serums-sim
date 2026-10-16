@@ -1,0 +1,170 @@
+{
+  "2024-II-085": {
+    "veredicto": "oficial_sostenida",
+    "sustento": "La dieta hipocalórica e hipograsa se indica a la familia para evitar que aparezca la diabetes (sobre todo en el hijo con sobrepeso y la madre): es prevención primaria. Una sola glicemia de 130 mg/dl no confirma diabetes (requiere repetirse), así que el caso no obliga a leerlo como prevención secundaria. Norma: Sin norma MINSA específica que resuelva el caso; concepto clásico de niveles de prevención (Leavell y Clark). No se verificó texto normativo.",
+    "sustento_url": null,
+    "estado": "vigente",
+    "observacion": ""
+  },
+  "2024-II-086": {
+    "veredicto": "ambigua",
+    "sustento": "La clave asume infección gonocócica diseminada por una uretritis no tratada (fiebre, rash, hepatomegalia). Pero fiebre y rash tras una relación sexual reciente en un HSH también encajan con VIH agudo, y no hay artritis/tenosinovitis ni pústulas acrales. Ninguna norma resuelve; se mantiene la clave oficial por defecto. Norma: Sin norma aplicable encontrada (pregunta clínica; la NTS de ITS no define este cuadro). No se verificó texto normativo.",
+    "sustento_url": null,
+    "estado": "revisar_norma",
+    "observacion": "Clave discutida: la norma no permite decidir con certeza entre las alternativas."
+  },
+  "2024-II-100": {
+    "veredicto": "oficial_sostenida",
+    "sustento": "La OMS recomienda menos de 2 g/día de sodio, que equivale a menos de 5 g/día de sal. La pregunta confunde sodio con sal, pero B (<5 g/día) es la única opción que coincide con la recomendación OMS/FAO. Norma: OMS. Guideline: Sodium intake for adults and children (2012); Nota descriptiva OMS 'Reducción de la ingesta de sal'",
+    "sustento_url": "https://www.who.int/news-room/fact-sheets/detail/salt-reduction",
+    "estado": "vigente",
+    "observacion": ""
+  },
+  "2025-I-005": {
+    "veredicto": "alternativa_mejor_sustentada",
+    "sustento": "Presentar un caso clínico propio acompañado de una discusión de la literatura es, por definición, un reporte de caso (C). La guía CARE incluye la revisión de la literatura dentro del reporte de caso. Una revisión sistemática no parte de un paciente: requiere una búsqueda sistemática y reproducible con protocolo. Norma: Guía CARE para reportes de caso (CARE Checklist 2013/2016, ítem 11 'Discusión', red EQUATOR). No es norma MINSA; es el estándar internacional de redacción del reporte de caso.",
+    "sustento_url": "https://www.care-statement.org/checklist",
+    "estado": "revisar_norma",
+    "clave_sugerida": "C",
+    "observacion": "Clave oficial B; según la norma, la alternativa mejor sustentada es C."
+  },
+  "2025-I-019": {
+    "veredicto": "alternativa_mejor_sustentada",
+    "sustento": "En un brote (50 casos entre 100 alumnos expuestos) el indicador del riesgo se llama tasa de ataque: 50/100 = 50 % (D). La tasa de ataque es una incidencia acumulada, así que C no es falsa, pero D es el término preciso. Nota: la cita se tomó de un extracto del MOPECE en búsqueda web; el PDF no se pudo descargar. Norma: OPS. Módulos de Principios de Epidemiología para el Control de Enfermedades (MOPECE), Módulo 3: Medición de las condiciones de salud y enfermedad en la población, 3.a ed. 2017, sección de incidencia / tasa de ataque",
+    "sustento_url": "https://iris.paho.org/handle/10665.2/55841",
+    "estado": "revisar_norma",
+    "clave_sugerida": "D",
+    "observacion": "Clave oficial C; según la norma, la alternativa mejor sustentada es D."
+  },
+  "2025-I-098": {
+    "veredicto": "alternativa_mejor_sustentada",
+    "sustento": "En el modelo OMS que usa el MINSA, los determinantes estructurales son el contexto socioeconómico y político y la posición social. El sistema de salud y los factores psicosociales son determinantes intermedios. La atención psicológica en el establecimiento actúa sobre esos factores: B. Solo cabría A si se interpreta que la pregunta apunta a la violencia de género como problema estructural. Norma: Documento Técnico 'Lineamientos de Política de Promoción de la Salud en el Perú', RM N.° 366-2017/MINSA, numeral 5.2.5 b) Determinantes Intermedios de la Salud (modelo Solar e Irwin, OMS 2010), p. 15-16",
+    "sustento_url": "https://cdn.www.gob.pe/uploads/document/file/190111/189603_RM_366-2017-MINSA.PDF20180823-24725-tj4708.PDF",
+    "estado": "revisar_norma",
+    "clave_sugerida": "B",
+    "observacion": "Clave oficial A; según la norma, la alternativa mejor sustentada es B."
+  },
+  "2025-II-048": {
+    "veredicto": "alternativa_mejor_sustentada",
+    "sustento": "La pregunta pide la especie más frecuente en la zona, no la que explica el cuadro grave. En Loreto, P. vivax causa más del 80 % de los casos (C). P. falciparum es la segunda especie y la que más se asocia a malaria grave, lo que pudo inducir la clave D. Norma: CDC-MINSA / DIRESA Loreto. Sala situacional 'Situación de la malaria en la región Loreto (S.E. 01-31) 2025' (teleconferencia SE 32-2025). Es dato epidemiológico oficial, no una NTS.",
+    "sustento_url": "https://www.dge.gob.pe/portal/docs/tools/teleconferencia/2025/SE322025/03.pdf",
+    "estado": "revisar_norma",
+    "clave_sugerida": "C",
+    "observacion": "Clave oficial D; según la norma, la alternativa mejor sustentada es C."
+  },
+  "2025-II-050": {
+    "veredicto": "ambigua",
+    "sustento": "Técnicamente la mediolateral se hace a unos 60° de la línea media, no a menos de 45°, así que el enunciado de D es impreciso. Aun así A, B y C son falsas (no aumenta desgarros, no reduce dolor ni sangrado), por lo que D queda por descarte como la clave. Ninguna norma respalda otra opción. Norma: No se encontró norma MINSA que fije el ángulo. Las guías internacionales (p. ej. RCOG Green-top 29) indican la mediolateral a unos 60° de la línea media (45-60° como mínimo). No se descargó el texto.",
+    "sustento_url": null,
+    "estado": "revisar_norma",
+    "observacion": "Clave discutida: la norma no permite decidir con certeza entre las alternativas."
+  },
+  "2025-II-053": {
+    "veredicto": "alternativa_mejor_sustentada",
+    "sustento": "El contrato CAS no ocupa una plaza del CAP: es un régimen especial fuera de la carrera. El reglamento exige un requerimiento del área usuaria con la justificación de la necesidad de contratar y la disponibilidad presupuestaria. Por eso C (necesidad de servicio demostrada) es lo que corresponde, no D. Norma: Reglamento del D. Leg. N.° 1057 (CAS), aprobado por D.S. N.° 075-2008-PCM, art. 3.1 inciso 1 'Preparatoria', modificado por D.S. N.° 065-2011-PCM (texto transcrito en la RGM 412-2024-GM-MPLC)",
+    "sustento_url": "https://cdn.www.gob.pe/uploads/document/file/6392893/5603375-rgm-412-2024-gm-mplc.pdf",
+    "estado": "revisar_norma",
+    "clave_sugerida": "C",
+    "observacion": "Clave oficial D; según la norma, la alternativa mejor sustentada es C."
+  },
+  "2025-II-079": {
+    "veredicto": "alternativa_mejor_sustentada",
+    "sustento": "Sin convulsiones ni coma, el cuadro (PA 170/110, cefalea, epigastralgia, visión borrosa, alteraciones cerebrales) es preeclampsia con criterios de severidad, es decir, inminencia de eclampsia: C. Solo sería B si 'alteración del estado de conciencia' se interpretara como coma. No se consiguió el PDF de la GPC MINSA RM 695-2006 (enlace caído), por eso se cita la guía OPS. Norma: OPS/CLAP-SMR. Guías para la atención de las principales emergencias obstétricas, 2.a ed., 2019, capítulo de trastornos hipertensivos (clasificación y criterios de severidad), p. 14-15",
+    "sustento_url": "https://docs.bvsalud.org/biblioref/2021/09/1290700/guia-para-la-atencion-de-las-principales-emergencias-obstetricas.pdf",
+    "estado": "revisar_norma",
+    "clave_sugerida": "C",
+    "observacion": "Clave oficial B; según la norma, la alternativa mejor sustentada es C."
+  },
+  "2025-II-087": {
+    "veredicto": "oficial_sostenida",
+    "sustento": "El enunciado copia literalmente una línea de acción del Lineamiento 4, 'Reorientar los servicios de salud con enfoque de promoción de la salud' (A). Ojo: el Lineamiento 3 (participación comunitaria) habla de 'reconocer y revalorar' a promotores y agentes; fortalecer su trabajo pertenece al 4. Norma: Lineamientos de Política de Promoción de la Salud, RM N.° 111-2005/MINSA, sección 7 'Lineamientos estratégicos', Lineamiento 4 (p. 17 del documento)",
+    "sustento_url": "https://cdn.www.gob.pe/uploads/document/file/281161/252562_RM111-2005.pdf20190110-18386-hg3av1.pdf",
+    "estado": "vigente",
+    "observacion": ""
+  },
+  "2025-II-097": {
+    "veredicto": "oficial_sostenida",
+    "sustento": "A los 6 meses toca la 1.a dosis de influenza (con la 3.a pentavalente y la 3.a polio). Si el niño ya tiene el esquema 'actualizado', ya recibió esas vacunas, y la próxima es la 2.a dosis de influenza a los 7 meses (A). La redacción es ambigua, pero la clave es coherente con la NTS. Norma: NTS N.° 196-MINSA/DGIESP-2022, Esquema Nacional de Vacunación (RM N.° 884-2022/MINSA), numeral 6.1, Vacuna Influenza Pediátrica, esquema y dosis (p. 27)",
+    "sustento_url": "https://cdn.www.gob.pe/uploads/document/file/3823311/Norma%20T%C3%A9cnica%20de%20Salud.pdf",
+    "estado": "vigente",
+    "observacion": ""
+  },
+  "2026-I-005": {
+    "veredicto": "ambigua",
+    "sustento": "Según la definición de la ficha familiar, una pareja sin hijos nacidos (aunque esté gestando) es Formación (D). Sin embargo, el MCI (RM 030-2020) ubica la 'maternidad saludable' entre los cuidados de la familia en expansión, lo que podría sustentar A. Las fuentes oficiales se contradicen, así que se mantiene la clave oficial. Norma: (1) Guía para el llenado de la Ficha Familiar (Directiva regional basada en RM 204-2015/MINSA), sección Ciclo vital familiar, p. 10. (2) Modelo de Cuidado Integral de Salud por Curso de Vida, RM N.° 030-2020/MINSA, cuidados por ciclo vital de la familia (verificado solo en una presentación ORAS-CONHU del modelo; el PDF de la RM está escaneado).",
+    "sustento_url": "https://cdn.www.gob.pe/uploads/document/file/496394/resolucion-ministerial-030-2020-MINSA.pdf",
+    "estado": "revisar_norma",
+    "observacion": "Clave discutida: la norma no permite decidir con certeza entre las alternativas."
+  },
+  "2026-I-006": {
+    "veredicto": "oficial_sostenida",
+    "sustento": "La pregunta evalúa si el profesional acepta un ofrecimiento ilícito ('regalar' al hijo) cuando no hay testigos; la conducta ética es rechazarlo (D). Referir a servicio social o salud mental (C) también es apropiado como acción complementaria, pero no responde al dilema planteado. No se encontró norma que obligue a elegir C. Norma: No se verificó texto normativo específico (ética profesional, Código de Ética y Deontología del CMP; la entrega de niños fuera de la adopción formal está prohibida en la normativa peruana de protección de niñez).",
+    "sustento_url": null,
+    "estado": "vigente",
+    "observacion": ""
+  },
+  "2026-I-083": {
+    "veredicto": "alternativa_mejor_sustentada",
+    "sustento": "La búsqueda intencionada y sistemática de casos en historias clínicas y archivos es vigilancia activa (D). La pasiva solo recibe la información que llega por la notificación rutinaria de los pacientes que acuden. La propia NTS menciona expresamente 'registros de atención intramural' en la definición de vigilancia activa. Norma: NTS N.° 230-MINSA/CDC-2025, Vigilancia epidemiológica y diagnóstico de laboratorio de dengue, chikungunya, Zika, Oropouche, Mayaro y otras arbovirosis, numerales 5.1.47 y 5.1.48 (Definiciones operativas)",
+    "sustento_url": "https://epi.diredsaa.gob.pe/uploads/1764793287_nts-n-230-minsa-cdc-2025_vigilancia_epidemiologica_arbovirosis_cp.pdf",
+    "estado": "revisar_norma",
+    "clave_sugerida": "D",
+    "observacion": "Clave oficial C; según la norma, la alternativa mejor sustentada es D."
+  },
+  "2026-II-005": {
+    "veredicto": "ambigua",
+    "sustento": "La norma peruana vigente indica 5 manzanas alrededor de la vivienda (121 en total), cifra que no aparece en ninguna opción. Por eso no respalda D (10), que propone Villamedic. La cifra de 25 manzanas aparece en protocolos de México, pero no se halló un documento OMS/OPS con un número de manzanas. Pregunta mal construida; se mantiene la clave oficial. Norma: Alerta Epidemiológica AE-CDC N.° 006-2026 (CDC-MINSA, transmisión comunitaria de sarampión), sección recomendaciones de inmunizaciones, p. 6; también AE-CDC N.° 005-2026",
+    "sustento_url": "https://epipublic.dge.gob.pe/uploads/alertas/alertas_20267_05_182652.pdf",
+    "estado": "revisar_norma",
+    "observacion": "Clave discutida: la norma no permite decidir con certeza entre las alternativas."
+  },
+  "2026-II-017": {
+    "veredicto": "oficial_sostenida",
+    "sustento": "La misma norma que cita Villamedic (PP 0018) define los paquetes educativos para las familias: el básico incluye alimentación saludable y el completo añade salud ocular, sueño y estrés. Por eso B es correcta. 'Detección/evaluación de diabetes' son prestaciones clínicas, no componentes de los paquetes educativos a familias. Norma: Documento Técnico: Definiciones operacionales y criterios de programación y de medición de avances del PP 0018 Enfermedades No Transmisibles (numeral 6.5 modificado por RM N.° 1231-2021/MINSA), producto 6.5.19 (3043988) y subproducto 6.5.19.1 (4398801), p. 177-178",
+    "sustento_url": "https://cdn.www.gob.pe/uploads/document/file/2387955/Documento%20T%C3%A9cnico%20.pdf",
+    "estado": "vigente",
+    "observacion": ""
+  },
+  "2026-II-041": {
+    "veredicto": "ambigua",
+    "sustento": "Según la norma, la vigilancia centinela es la que se hace en sitios o grupos seleccionados de antemano, no la respuesta a un aumento inusual de casos (eso es investigación de brote o búsqueda activa). Tampoco hay norma que defina 'dirigida' o 'selectiva'. La pregunta no tiene una respuesta normativa clara; se mantiene la oficial. Norma: Directiva Sanitaria N.° 046-MINSA/DGE-V.01 (RM N.° 506-2012/MINSA), numeral 5.1, definición de Vigilancia Centinela. No se halló definición normativa de vigilancia 'dirigida', 'específica' ni 'selectiva'.",
+    "sustento_url": "https://cdn.www.gob.pe/uploads/document/file/270821/241921_RM506-2012-MINSA.pdf20190110-18386-vxpjx2.pdf",
+    "estado": "revisar_norma",
+    "observacion": "Clave discutida: la norma no permite decidir con certeza entre las alternativas."
+  },
+  "2026-II-070": {
+    "veredicto": "oficial_sostenida",
+    "sustento": "El reglamento agrupa la segunda opinión médica (art. 9) dentro del Subcapítulo I 'Acceso a los servicios de salud', junto a la atención de emergencia y la libre elección del médico. Por eso B es correcta. La URL es una copia fiel de la página de El Peruano alojada por un tercero. Norma: Reglamento de la Ley N.° 29414, aprobado por D.S. N.° 027-2015-SA (El Peruano, 13/08/2015), Capítulo II, Subcapítulo I 'Acceso a los servicios de salud', art. 9 'Derecho a una segunda opinión médica'",
+    "sustento_url": "https://www.mapfre.com.pe/media/decreto-supremo-027-2015-sa-reglamento-ley-29414-derechos-usuarios-de-servicios-de-salud.pdf",
+    "estado": "vigente",
+    "observacion": ""
+  },
+  "2026-II-078": {
+    "veredicto": "oficial_sostenida",
+    "sustento": "Los niños de 5 a 11 años con Hb >=11.5 g/dl (no anémicos) reciben suplementación preventiva de 60 mg de hierro elemental diarios por 3 meses, en jarabe o tableta (B). Los 30 mg que propone Villamedic corresponden a los niños de 24 a 59 meses (Tabla N.° 8), no a los de 5 a 11 años. Norma: NTS N.° 213-MINSA/DGIESP-2024, Prevención y control de la anemia por deficiencia de hierro (RM N.° 251-2024/MINSA), numeral 5 y Tabla N.° 9, p. 10",
+    "sustento_url": "https://cdn.www.gob.pe/uploads/document/file/6166763/5440166-resolucion-ministerial-n-251-2024-minsa.pdf",
+    "estado": "vigente",
+    "observacion": ""
+  },
+  "2026-II-088": {
+    "veredicto": "oficial_sostenida",
+    "sustento": "Usar peluquerías, ferias y medios locales como canales de difusión supone acuerdos de colaboración con actores de la comunidad, es decir, alianzas estratégicas (A). 'Promoción de la salud' (B) es el marco general, no la acción concreta que pide el espacio en blanco. Sin norma que lo contradiga, se mantiene la clave oficial. Norma: No se encontró documento MINSA con el texto del enunciado (peluquerías, ferias, medios locales) en el plan de dengue. No se verificó texto normativo.",
+    "sustento_url": null,
+    "estado": "vigente",
+    "observacion": ""
+  },
+  "2025-II-014": {
+    "veredicto": "ambigua",
+    "sustento": "La NTS exige medir la Hb (y pide examen parasitológico) antes de clasificar la anemia. Solo indica referir de inmediato si la anemia es severa, y aun así inicia tratamiento antes de referir. El caso no da Hb, así que la norma no permite afirmar que haya anemia severa (A) ni respalda tratar empíricamente sin Hb (D). B es incorrecta porque la norma sí pide parasitológico. No se modifica la clave. Norma: NTS N.° 213-MINSA/DGIESP-2024 (RM N.° 251-2024/MINSA): diagnóstico (incluye examen parasitológico seriado y dosaje de Hb, p. 14) y numeral 7 'Tratamiento de anemia severa' (p. 19)",
+    "sustento_url": "https://cdn.www.gob.pe/uploads/document/file/6166763/5440166-resolucion-ministerial-n-251-2024-minsa.pdf",
+    "estado": "revisar_norma",
+    "observacion": "Clave discutida: la norma no permite decidir con certeza entre las alternativas."
+  },
+  "2025-II-018": {
+    "veredicto": "ambigua",
+    "sustento": "La política no tiene principios llamados 'diversidad cultural' ni 'equidad': sus principios son participación y concertación, igualdad y no discriminación, y legalidad. El enfoque intercultural menciona a la vez la equidad (erradicar inequidades) y la diversidad cultural. Buscar un traductor respeta la lengua del paciente (diversidad) y también garantiza un acceso equitativo. Ninguna norma resuelve entre A y B. Norma: Política Sectorial de Salud Intercultural, D.S. N.° 016-2016-SA, sección 'Principios de la Política' (participación y concertación; igualdad y no discriminación; legalidad) y enfoques (p. 18 del PDF)",
+    "sustento_url": "https://cdn.www.gob.pe/uploads/document/file/193758/192483_DS_016-2016-SA.pdf20180904-20266-1vn5yiu.pdf",
+    "estado": "revisar_norma",
+    "observacion": "Clave discutida: la norma no permite decidir con certeza entre las alternativas."
+  }
+}
